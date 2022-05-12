@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131033758888",
+    "project_id": "devicenotifications-cf78d",
+    "storage_bucket": "devicenotifications-cf78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131033758888:android:81e6e2c3ae7ba66c4a169d",
+        "android_client_info": {
+          "package_name": "com.example.devicenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131033758888-tr4b18jtvh1f6uanjnr40dv5073n7gce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ug9i2oh2xHZpTTCQfvb9n6SIQJpZMpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131033758888-tr4b18jtvh1f6uanjnr40dv5073n7gce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
